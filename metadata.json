@@ -1,0 +1,6 @@
+{
+  "name": "Shopnova",
+  "description": "Premium Indian E-Commerce Marketplace with Storefront, Cart, Checkout, Order Tracking, Admin CMS, and AI Features",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
